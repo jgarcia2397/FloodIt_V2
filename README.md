@@ -1,0 +1,1 @@
+Second version of Flood It game. Added undo and redo button in addition to reset and quit buttons. The second version also allows the user to select the starting dot and also click the board instead of clicking buttons outside of the board to switch colours.
